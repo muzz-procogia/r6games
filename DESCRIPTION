@@ -1,0 +1,17 @@
+Package: r6interface
+Type: Package
+Title: Interface for R6 objects
+Version: 0.1.0
+Author: Sam Churchill <sam.churchill@procogia.com>
+Maintainer: Sam Churchill <sam.churchill@procogia.com>
+Description: Provides a user interface for simple R6 classes
+License: MIT
+Requires:
+  shiny (>= 1.7.2),
+  R6 (>= 2.5.1),
+  shinyjs (>= 2.1.0),
+  purrr (>= 0.3.5),
+  stringr (>= 1.5.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
